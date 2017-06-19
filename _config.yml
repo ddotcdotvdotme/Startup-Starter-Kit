@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- theme: jekyll-theme-cayman -->
 exclude:
   - "/vendor/"
@@ -37,3 +38,6 @@ descriptions:
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
 theme: jekyll-theme-cayman
+=======
+theme: jekyll-theme-hacker
+>>>>>>> parent of a2edf65... Set theme jekyll-theme-cayman
