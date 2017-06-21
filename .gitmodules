@@ -1,0 +1,4 @@
+[submodule "Wiki"]
+  path = wiki
+  url = https://zahninnovationcenter.github.io/Startup-Starter-Kit.wiki.git
+  branch = master
