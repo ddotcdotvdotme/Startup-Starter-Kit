@@ -1,0 +1,5 @@
+## Industrial Design (Product Aesthetics)
+- [Basic techniques for product design](http://www.hongkiat.com/blog/basic-guidelines-to-product-sketching/)
+- [Traditional Skecht rendering, MVP 0.0](http://www.designertechniques.com/tutorials/mikaellugnegardtraditionalrendering01-page1.htm)
+- [Basics of Industrial Designing](http://www.cadius.org/industrial-design-basics-where-to-start/)
+- [Industrails designer, how they do it](http://www.idsa.org/education/how-they-do-it)

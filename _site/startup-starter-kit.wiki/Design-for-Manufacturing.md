@@ -1,0 +1,21 @@
+## Design for Manufacturing
+
+   - Electronics Fabrication DFM
+     - [DFM for Electronics(part 1)](https://www.youtube.com/watch?v=VXE_dh38HjU&list=PLGEhcuqLbyaTMr94wPm8Q-CWilzJWgPye&index=3)
+     - [DFM for Electronics (part 2)](https://www.youtube.com/watch?v=Uemr8xaxcw0)
+     - [DFM for Electronics (part 3)](https://www.youtube.com/watch?v=2zGisPMNstI)
+     - [Place Order for Your PCB Design](website for ordering PCB)
+   - Injection Molding DFM
+      - [Injection molding design tips and fundamentals](https://www.protolabs.com/resources/design-tips/)
+      - [Place Order for Injection Molding](website for ordering Injection Molded Parts)
+   - Sheet metal Fabrication DFM
+      - [Intro to sheet metal Fabrication](https://19dc2udxw571ap3t210itdkp-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/Rapid-Sheet-Metal-Design-Guide.pdf?t=6509)(Design tips)
+      - [Intro to types of welding](http://earlbeck.com/types-of-welding.html)
+      - [Place Order for Sheet Metal Fabrication](website for ordering Sheet Metal Fabrication)
+   - CNC & Manual Machinig DFM
+      - [Design tips for CNC Machining](http://omwcorp.com/how-to-design-machined-parts.html)
+      - [Place Order for CNC Machining](website for ordering CNC Machining)
+   - Laser Cutting DFM
+ - Extras
+      - [Snapt Fit case design](https://www.3dhubs.com/knowledge-base/cad-modeling-3-snap-fits?utm_source=customerio&utm_medium=email&utm_content=cad1test&utm_campaign=customer-news&user=3470&otl-token=VID3_NbLejlUPc7jircbTniHH9QPdmFRLQFBH8gYNwI&timestamp=1496867581#)
+      - [Full List of Manufacturing Processes](http://www.engineersedge.com/manufacturing_design.shtml) (This section is only if you really want to know more manufacturing process)
